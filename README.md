@@ -1,3 +1,5 @@
 # Hello world!
 
-I'm here to learn frontend!
+- 🕷️ I'm a frontend developer
+- 🤡 I make bad jokes
+- ❔ Ask me about Loom
